@@ -14,7 +14,7 @@ Este projeto tem como objetivo reunir atividades, exercícios, exemplos prático
 ## 📂 Estrutura do Repositório
 O repositório poderá conter:
 - Exercícios práticos
-- Trabalhos acadêmicos
+- Trabalhos academicos
 - Desafios de lógica
 - Projetos desenvolvidos durante a disciplina
 - Anotações e materiais de apoio
